@@ -1,0 +1,36 @@
+/* line 3, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/assets/stylesheets/camaleon_cms/admin/nav-menu.css.scss */
+#menu_content #menu_form .panel-heading {
+  overflow: hidden;
+}
+/* line 5, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/assets/stylesheets/camaleon_cms/admin/nav-menu.css.scss */
+#menu_content #menu_form .panel-heading label {
+  width: auto;
+  float: left;
+  margin: 7px 2px 0 0;
+}
+/* line 9, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/assets/stylesheets/camaleon_cms/admin/nav-menu.css.scss */
+#menu_content #menu_form .panel-heading input.menu-input-title {
+  width: 32%;
+  float: left;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+/* line 13, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/assets/stylesheets/camaleon_cms/admin/nav-menu.css.scss */
+#menu_content #menu_form .panel-heading input.menu-input-slug {
+  width: 26%;
+  float: left;
+  margin-left: 8px;
+}
+/* line 17, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/assets/stylesheets/camaleon_cms/admin/nav-menu.css.scss */
+#menu_content #menu_form .panel-body {
+  min-height: 250px;
+}
+/* line 20, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/assets/stylesheets/camaleon_cms/admin/nav-menu.css.scss */
+#menu_content #menu_form .panel-body #nestable .label {
+  color: #333;
+}
+/* line 27, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/assets/stylesheets/camaleon_cms/admin/nav-menu.css.scss */
+#menu_content #menu_items .tab-pane {
+  max-height: 300px;
+  overflow: auto;
+}

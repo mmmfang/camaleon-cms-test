@@ -1,0 +1,92 @@
+/* line 1, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group {
+  margin-bottom: 15px;
+}
+/* line 3, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group .red {
+  color: #ff0000;
+}
+/* line 6, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group label {
+  display: inline-block;
+  margin-bottom: 5px;
+  max-width: 100%;
+}
+/* line 12, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group textarea {
+  overflow: auto;
+}
+/* line 15, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group textarea.railscf-size-small {
+  min-height: 60px;
+  width: 200px;
+}
+/* line 19, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group textarea.railscf-size-medium {
+  min-height: 100px;
+  width: 400px;
+}
+/* line 23, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group textarea.railscf-size-large {
+  min-height: 200px;
+  width: 100%;
+}
+/* line 30, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group select.railscf-form-control {
+  width: auto;
+  display: block;
+}
+/* line 38, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group input.railscf-field-website, .railscf-form-group input.railscf-field-email, .railscf-form-group input.railscf-field-captcha {
+  width: 200px;
+}
+/* line 44, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group input.railscf-size-small {
+  width: 130px;
+}
+/* line 48, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group input.railscf-size-medium {
+  width: 300px;
+}
+/* line 52, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group input.railscf-size-large {
+  width: 100%;
+}
+/* line 57, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group .radio,
+.railscf-form-group .checkbox {
+  display: block;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  min-height: 20px;
+  position: relative;
+}
+/* line 65, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group .radio > label,
+.railscf-form-group .checkbox > label {
+  cursor: pointer;
+  font-weight: 400;
+  margin-bottom: 0;
+  padding-left: 20px;
+}
+/* line 73, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group .radio input[type="radio"],
+.railscf-form-group .radio-inline input[type="radio"],
+.railscf-form-group .checkbox input[type="checkbox"],
+.railscf-form-group .checkbox-inline input[type="checkbox"] {
+  margin-left: -20px;
+  position: absolute;
+}
+/* line 81, /Users/maefang/.rvm/gems/ruby-2.2.3/gems/camaleon_cms-2.1.1.4/app/apps/plugins/contact_form/assets/css/front/railsform.scss */
+.railscf-form-group .railscf-form-control {
+  background: none repeat scroll 0 0 #f9f9f9;
+  border: 1px solid #e5e5e5;
+  box-shadow: none;
+  border-radius: 4px;
+  font-size: 12px;
+  height: 30px;
+  line-height: 18px;
+  transition: all 200ms ease 0s;
+  padding: 6px 12px;
+  width: 100%;
+}
